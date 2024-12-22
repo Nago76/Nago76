@@ -2,6 +2,7 @@
 <div align="center">
   <h5>First Malaysian Exploiter | 2015 | 2020 |</h5>
   <h6>I've been along side with OG Exploiter. I'll learn Network Traffic Tools. Merdeka Developer Team.</h6>
+  <img src="https://cdn.discordapp.com/attachments/1292520995785277490/1320372930554892420/Your_paragraph_text.png?ex=67695c9d&is=67680b1d&hm=faa0ce2963c1156b139c5726339c262046330341d52584e7b3921ca8b09bc4a7&"/>
 </div>
 <div align="center">
   <h3>Languages</h3>
